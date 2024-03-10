@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 108vh;
+  background: green;
+  posi
+}
+
+.sm-line {
+  border: 16px solid;
+  width: 24px;
+}
+
+.box {
+  width: 345px;
+  height: 270px;
+  margin: 4px;
+}
